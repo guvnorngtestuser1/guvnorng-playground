@@ -1,0 +1,12 @@
+<rule>
+  <name>RegexDslRule</name>
+  <modelVersion>1.0</modelVersion>
+  <attributes/>
+  <metadataList/>
+  <lhs>
+    <dslSentence>
+      <sentence>When the ages is less than  {57:1?[0-9]?[0-9]}</sentence>
+    </dslSentence>
+  </lhs>
+  <rhs/>
+</rule>
