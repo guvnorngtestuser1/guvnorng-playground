@@ -1,0 +1,51 @@
+<org.uberfire.client.workbench.model.PerspectiveDefinition>
+  <name>Show TestWidgets-5</name>
+  <root>
+    <isRoot>true</isRoot>
+    <parts>
+      <org.uberfire.client.workbench.model.PartDefinition>
+        <place>
+          <identifier>MyAdminArea</identifier>
+          <parameters/>
+        </place>
+        <parentPanel reference="../../.."/>
+      </org.uberfire.client.workbench.model.PartDefinition>
+    </parts>
+    <children>
+      <entry>
+        <org.uberfire.client.workbench.Position>SOUTH</org.uberfire.client.workbench.Position>
+        <org.uberfire.client.workbench.model.PanelDefinition>
+          <height>364</height>
+          <isRoot>false</isRoot>
+          <parts>
+            <org.uberfire.client.workbench.model.PartDefinition>
+              <place>
+                <identifier>Test</identifier>
+                <parameters/>
+              </place>
+              <parentPanel reference="../../.."/>
+            </org.uberfire.client.workbench.model.PartDefinition>
+          </parts>
+          <children/>
+        </org.uberfire.client.workbench.model.PanelDefinition>
+      </entry>
+      <entry>
+        <org.uberfire.client.workbench.Position>WEST</org.uberfire.client.workbench.Position>
+        <org.uberfire.client.workbench.model.PanelDefinition>
+          <width>201</width>
+          <isRoot>false</isRoot>
+          <parts>
+            <org.uberfire.client.workbench.model.PartDefinition>
+              <place>
+                <identifier>Test2</identifier>
+                <parameters/>
+              </place>
+              <parentPanel reference="../../.."/>
+            </org.uberfire.client.workbench.model.PartDefinition>
+          </parts>
+          <children/>
+        </org.uberfire.client.workbench.model.PanelDefinition>
+      </entry>
+    </children>
+  </root>
+</org.uberfire.client.workbench.model.PerspectiveDefinition>
