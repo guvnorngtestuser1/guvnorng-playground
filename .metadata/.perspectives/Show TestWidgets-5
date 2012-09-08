@@ -13,14 +13,14 @@
     </parts>
     <children>
       <entry>
-        <org.uberfire.client.workbench.Position>SOUTH</org.uberfire.client.workbench.Position>
+        <org.uberfire.client.workbench.Position>WEST</org.uberfire.client.workbench.Position>
         <org.uberfire.client.workbench.model.PanelDefinition>
-          <height>364</height>
+          <width>201</width>
           <isRoot>false</isRoot>
           <parts>
             <org.uberfire.client.workbench.model.PartDefinition>
               <place>
-                <identifier>Test</identifier>
+                <identifier>Test2</identifier>
                 <parameters/>
               </place>
               <parentPanel reference="../../.."/>
@@ -30,14 +30,14 @@
         </org.uberfire.client.workbench.model.PanelDefinition>
       </entry>
       <entry>
-        <org.uberfire.client.workbench.Position>WEST</org.uberfire.client.workbench.Position>
+        <org.uberfire.client.workbench.Position>SOUTH</org.uberfire.client.workbench.Position>
         <org.uberfire.client.workbench.model.PanelDefinition>
-          <width>201</width>
+          <height>364</height>
           <isRoot>false</isRoot>
           <parts>
             <org.uberfire.client.workbench.model.PartDefinition>
               <place>
-                <identifier>Test2</identifier>
+                <identifier>Test</identifier>
                 <parameters/>
               </place>
               <parentPanel reference="../../.."/>
