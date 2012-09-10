@@ -5,20 +5,6 @@
     <parts>
       <org.uberfire.client.workbench.model.PartDefinition>
         <place>
-          <identifier>rssFeed</identifier>
-          <parameters/>
-        </place>
-        <parentPanel reference="../../.."/>
-      </org.uberfire.client.workbench.model.PartDefinition>
-      <org.uberfire.client.workbench.model.PartDefinition>
-        <place>
-          <identifier>perspectives</identifier>
-          <parameters/>
-        </place>
-        <parentPanel reference="../../.."/>
-      </org.uberfire.client.workbench.model.PartDefinition>
-      <org.uberfire.client.workbench.model.PartDefinition>
-        <place>
           <identifier>welcome</identifier>
           <parameters/>
         </place>
@@ -26,7 +12,7 @@
       </org.uberfire.client.workbench.model.PartDefinition>
       <org.uberfire.client.workbench.model.PartDefinition>
         <place>
-          <identifier>notifications</identifier>
+          <identifier>perspectives</identifier>
           <parameters/>
         </place>
         <parentPanel reference="../../.."/>
@@ -43,7 +29,7 @@
             <entry>
               <org.uberfire.client.workbench.Position>EAST</org.uberfire.client.workbench.Position>
               <org.uberfire.client.workbench.model.PanelDefinition>
-                <width>590</width>
+                <width>862</width>
                 <isRoot>false</isRoot>
                 <parts/>
                 <children/>
@@ -55,7 +41,7 @@
       <entry>
         <org.uberfire.client.workbench.Position>WEST</org.uberfire.client.workbench.Position>
         <org.uberfire.client.workbench.model.PanelDefinition>
-          <width>64</width>
+          <width>246</width>
           <isRoot>false</isRoot>
           <parts/>
           <children/>
