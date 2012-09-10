@@ -22,7 +22,7 @@
       <entry>
         <org.uberfire.client.workbench.Position>WEST</org.uberfire.client.workbench.Position>
         <org.uberfire.client.workbench.model.PanelDefinition>
-          <width>169</width>
+          <width>698</width>
           <isRoot>false</isRoot>
           <parts>
             <org.uberfire.client.workbench.model.PartDefinition>
