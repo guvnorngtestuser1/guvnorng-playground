@@ -1,4 +1,6 @@
-when
-  #conditions
-then
-  #actions
+rule "Dummy Rule"
+  when
+    #conditions
+  then
+    #actions
+end
