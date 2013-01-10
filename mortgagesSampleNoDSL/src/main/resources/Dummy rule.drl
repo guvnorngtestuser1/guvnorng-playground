@@ -1,0 +1,6 @@
+rule "Dummy Rule"
+  when
+    #conditions
+  then
+    #actions
+end
