@@ -13,6 +13,7 @@
     <dependency>
       <groupId>org.kie.example</groupId>
       <artifactId>guvnor-m2repo-dependency-example1</artifactId>
+      <version>1.0</version>
     </dependency>
   </dependencies>   
 </project>
