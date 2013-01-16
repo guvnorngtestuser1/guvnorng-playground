@@ -7,7 +7,14 @@
   <groupId>org.kie.example</groupId>
   <artifactId>guvnor-m2repo-dependency-example2</artifactId>
   <version>1.0</version>
-
+  
+  <repositories>
+    <repository>
+      <id>guvnor-m2-repo</id>
+      <name>Guvnor M2 Repo</name>
+      <url>http://127.0.0.1:8888/maven2</url>
+    </repository>
+  </repositories>
 
   <dependencies>
     <dependency>
