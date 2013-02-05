@@ -1,0 +1,6 @@
+rule A
+  when
+    #conditions
+  then
+    #actions
+end

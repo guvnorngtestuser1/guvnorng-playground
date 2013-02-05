@@ -1,0 +1,6 @@
+rule B
+  when
+    #conditions
+  then
+    #actions
+end
