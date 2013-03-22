@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <decision-table>
   <tableName>Pricing loans</tableName>
   <attributeCols/>
@@ -114,4 +115,5 @@
   </data>
   <descriptionWidth>25</descriptionWidth>
   <groupField>income</groupField>
+<packageName/>
 </decision-table>
