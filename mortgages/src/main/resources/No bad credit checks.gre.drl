@@ -1,3 +1,5 @@
+package defaultpkg;
+
 rule "No bad credit checks"
 	salience 10
 	dialect "mvel"

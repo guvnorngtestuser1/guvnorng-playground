@@ -1,3 +1,5 @@
+package defaultpkg;
+
 declare LoanApplication
 	amount: Integer
 	approved: Boolean

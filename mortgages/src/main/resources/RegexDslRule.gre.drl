@@ -1,3 +1,5 @@
+package defaultpkg;
+
 rule "RegexDslRule"
 	dialect "mvel"
 	when

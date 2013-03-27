@@ -1,3 +1,5 @@
+package defaultpkg;
+
 rule "Underage"
 	salience 10
 	dialect "mvel"

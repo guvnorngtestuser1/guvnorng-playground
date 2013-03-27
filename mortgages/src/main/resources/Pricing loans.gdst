@@ -115,6 +115,6 @@
   </data>
   <descriptionWidth>25</descriptionWidth>
   <groupField>income</groupField>
-<packageName/>
+<packageName>defaultpkg</packageName>
 <imports/>
 </decision-table>
