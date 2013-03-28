@@ -6,7 +6,7 @@
     <repository>
       <id>guvnor-m2-repo</id>
       <name>Guvnor M2 Repo</name>
-      <url>file://C:\g\guvnor-jcr2vfs-migration\guvnor-jcr2vfs-migration-core\repository</url>
+      <url>http://127.0.0.1:8888/maven2</url>
     </repository>
   </repositories>
 </project>
