@@ -1,9 +1,0 @@
-package defaultpkg;
-
-rule "CreditApproval"
-	dialect "mvel"
-	when
-		When the credit rating is OK
-	then
-		Approve the loan
-end
