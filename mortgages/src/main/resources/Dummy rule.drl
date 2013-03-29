@@ -1,9 +1,9 @@
-rule 'Dummy rule'
 package defaultpkg;
+
+rule 'Dummy rule'
 
 when
   #conditions
 then
   #actions
-
 end
