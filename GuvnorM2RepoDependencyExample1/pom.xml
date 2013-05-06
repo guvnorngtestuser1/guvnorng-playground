@@ -12,7 +12,7 @@
     <repository>
       <id>guvnor-m2-repo</id>
       <name>Guvnor M2 Repo</name>
-      <url>file://C:/g/guvnor-ng/guvnor-showcase/guvnor-webapp/repository</url>
+      <url>http://127.0.0.1:8888/maven2</url>
     </repository>
   </repositories>
     
