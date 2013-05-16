@@ -1,5 +1,5 @@
-<org.kie.guvnor.project.model.PackageConfiguration>
+<configuration>
   <imports>
     <imports/>
   </imports>
-</org.kie.guvnor.project.model.PackageConfiguration>
+</configuration>
