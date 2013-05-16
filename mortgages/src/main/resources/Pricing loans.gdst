@@ -11,7 +11,7 @@
   <metadataCols/>
   <attributeCols/>
   <conditionPatterns>
-    <org.drools.guvnor.models.guided.dtable.shared.model.Pattern52>
+    <org.drools.workbench.models.guided.dtable.shared.model.Pattern52>
       <factType>LoanApplication</factType>
       <boundName>application</boundName>
       <isNegated>false</isNegated>
@@ -70,8 +70,8 @@
           <operator>&lt;</operator>
         </condition-column52>
       </conditions>
-    </org.drools.guvnor.models.guided.dtable.shared.model.Pattern52>
-    <org.drools.guvnor.models.guided.dtable.shared.model.Pattern52>
+    </org.drools.workbench.models.guided.dtable.shared.model.Pattern52>
+    <org.drools.workbench.models.guided.dtable.shared.model.Pattern52>
       <factType>IncomeSource</factType>
       <boundName>income</boundName>
       <isNegated>false</isNegated>
@@ -91,7 +91,7 @@
           <valueList>Job, Asset</valueList>
         </condition-column52>
       </conditions>
-    </org.drools.guvnor.models.guided.dtable.shared.model.Pattern52>
+    </org.drools.workbench.models.guided.dtable.shared.model.Pattern52>
   </conditionPatterns>
   <actionCols>
     <set-field-col52>
