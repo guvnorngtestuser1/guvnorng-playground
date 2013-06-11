@@ -3,8 +3,8 @@ package defaultpkg;
 rule 'Dummy rule'
 
 when
-  #conditions
+  //conditions
 then
-  #actions
+  //actions
 
 end
