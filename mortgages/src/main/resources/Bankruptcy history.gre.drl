@@ -1,5 +1,3 @@
-package defaultpkg;
-
 rule "Bankruptcy history"
 	salience 10
 	dialect "mvel"

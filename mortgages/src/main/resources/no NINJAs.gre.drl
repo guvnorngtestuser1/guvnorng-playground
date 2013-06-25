@@ -1,5 +1,3 @@
-package defaultpkg;
-
 rule "no NINJAs"
 	salience 10
 	dialect "mvel"
