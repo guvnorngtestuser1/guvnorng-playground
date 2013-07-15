@@ -21,8 +21,19 @@ static final long serialVersionUID = 1L;
     private Integer insuranceCost;
 
     public LoanApplication() {
-
     }
+
+    public LoanApplication(Integer amount, Boolean approved, Integer approvedRate, Integer deposit, String explanation, Integer lengthYears, Integer insuranceCost) {
+        this.amount = amount;
+        this.approved = approved;
+        this.approvedRate = approvedRate;
+        this.deposit = deposit;
+        this.explanation = explanation;
+        this.lengthYears = lengthYears;
+        this.insuranceCost = insuranceCost;
+    }
+
+
     
     public Integer getAmount() {
         return this.amount;

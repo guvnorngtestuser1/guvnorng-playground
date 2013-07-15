@@ -1,3 +1,5 @@
+package Dummy rule.drl;
+
 rule 'Dummy rule'
 
 when

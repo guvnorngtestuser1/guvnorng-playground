@@ -17,8 +17,17 @@ static final long serialVersionUID = 1L;
     private Integer age;
 
     public Applicant() {
-
     }
+
+    public Applicant(String creditRating, Boolean approved, java.util.Date applicationDate, String name, Integer age) {
+        this.creditRating = creditRating;
+        this.approved = approved;
+        this.applicationDate = applicationDate;
+        this.name = name;
+        this.age = age;
+    }
+
+
     
     public String getCreditRating() {
         return this.creditRating;

@@ -11,8 +11,14 @@ static final long serialVersionUID = 1L;
     private Integer amountOwed;
 
     public Bankruptcy() {
-
     }
+
+    public Bankruptcy(Integer yearOfOccurrence, Integer amountOwed) {
+        this.yearOfOccurrence = yearOfOccurrence;
+        this.amountOwed = amountOwed;
+    }
+
+
     
     public Integer getYearOfOccurrence() {
         return this.yearOfOccurrence;

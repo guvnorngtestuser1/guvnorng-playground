@@ -11,8 +11,14 @@ static final long serialVersionUID = 1L;
     private String type;
 
     public IncomeSource() {
-
     }
+
+    public IncomeSource(Integer amount, String type) {
+        this.amount = amount;
+        this.type = type;
+    }
+
+
     
     public Integer getAmount() {
         return this.amount;

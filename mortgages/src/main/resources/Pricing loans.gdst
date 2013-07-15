@@ -138,7 +138,7 @@
   <imports>
     <imports/>
   </imports>
-  <packageName></packageName>
+  <packageName>Pricing loans.gdst</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
   <data>
     <list>
