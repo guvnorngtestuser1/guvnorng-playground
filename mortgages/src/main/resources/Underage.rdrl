@@ -1,5 +1,3 @@
-package Underage.rdrl;
-
 rule "Underage"
 	salience 10
 	dialect "mvel"

@@ -1,5 +1,3 @@
-package no NINJAs.rdrl;
-
 rule "no NINJAs"
 	salience 10
 	dialect "mvel"

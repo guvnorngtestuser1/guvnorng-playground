@@ -1,5 +1,3 @@
-package RegexDslRule.rdslr;
-
 rule "RegexDslRule"
 	dialect "mvel"
 	when

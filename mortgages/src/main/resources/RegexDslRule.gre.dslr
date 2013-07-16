@@ -1,6 +1,0 @@
-rule "RegexDslRule"
-	dialect "mvel"
-	when
-		When the ages is less than  57
-	then
-end

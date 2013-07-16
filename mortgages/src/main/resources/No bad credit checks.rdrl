@@ -1,5 +1,3 @@
-package No bad credit checks.rdrl;
-
 rule "No bad credit checks"
 	salience 10
 	dialect "mvel"

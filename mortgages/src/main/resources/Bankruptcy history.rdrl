@@ -1,5 +1,3 @@
-package Bankruptcy history.rdrl;
-
 rule "Bankruptcy history"
 	salience 10
 	dialect "mvel"
