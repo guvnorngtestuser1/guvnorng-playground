@@ -16,4 +16,30 @@
     </repository>
   </repositories>
     
+  <build>
+    <extensions>
+      <extension>
+        <groupId>org.apache.maven.wagon</groupId>
+        <artifactId>wagon-ssh</artifactId>
+        <version>1.0</version>
+      </extension>
+    </extensions>
+  </build>    
+  
+  <!-- Enabling the use of FTP -->
+  <distributionManagement>
+    <repository>
+      <id>guvnor-m2-repo</id>
+      <url>sftp://10.66.16.171/local/dev/jboss-as-7.1.1.Final/bin/repository</url>
+    </repository>
+  </distributionManagement>   
+  
+  <!-- You may need a login password for scp to work. For example, add following to settings.xml file  -->
+  <!--servers>
+    <server>
+      <id>guvnor-m2-repo</id>
+      <username>yourusername</username>
+      <password>yourpwd</password>
+    </server>
+  </servers-->
 </project>
