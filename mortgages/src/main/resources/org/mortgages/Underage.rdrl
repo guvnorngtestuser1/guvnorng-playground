@@ -1,3 +1,8 @@
+package org.mortgages
+
+import org.mortgages.LoanApplication
+import org.mortgages.Applicant
+
 rule "Underage"
 	salience 10
 	dialect "mvel"

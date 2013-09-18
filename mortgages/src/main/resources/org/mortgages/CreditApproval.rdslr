@@ -1,3 +1,5 @@
+package org.mortgages
+
 rule "CreditApproval"
 	dialect "mvel"
 	when
