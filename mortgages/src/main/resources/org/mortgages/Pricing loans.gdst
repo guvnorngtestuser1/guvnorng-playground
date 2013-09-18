@@ -138,7 +138,7 @@
   <imports>
     <imports/>
   </imports>
-  <packageName>org.mortages</packageName>
+  <packageName>org.mortgages</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
   <data>
     <list>
