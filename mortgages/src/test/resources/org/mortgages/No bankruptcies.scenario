@@ -3,13 +3,13 @@
   <globals/>
   <fixtures>
     <fact-data>
-      <type>LoanApplication</type>
+      <type>org.mortgages.LoanApplication</type>
       <name>application</name>
       <fieldData/>
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>Bankruptcy</type>
+      <type>org.mortgages.Bankruptcy</type>
       <name>bankruptcy</name>
       <fieldData>
         <field-data>
@@ -26,7 +26,7 @@
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>Bankruptcy</type>
+      <type>org.mortgages.Bankruptcy</type>
       <name>moreBankruptcy</name>
       <fieldData>
         <field-data>
@@ -65,7 +65,7 @@
       <name>moreBankruptcy</name>
     </retract-fact>
     <fact-data>
-      <type>Bankruptcy</type>
+      <type>org.mortgages.Bankruptcy</type>
       <name>bankruptcy</name>
       <fieldData>
         <field-data>
@@ -82,7 +82,7 @@
       <isModify>true</isModify>
     </fact-data>
     <fact-data>
-      <type>LoanApplication</type>
+      <type>org.mortgages.LoanApplication</type>
       <name>application2</name>
       <fieldData/>
       <isModify>false</isModify>

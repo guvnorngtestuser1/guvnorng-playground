@@ -3,13 +3,13 @@
   <globals/>
   <fixtures>
     <fact-data>
-      <type>LoanApplication</type>
+      <type>org.mortgages.LoanApplication</type>
       <name>app</name>
       <fieldData/>
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>Applicant</type>
+      <type>org.mortgages.Applicant</type>
       <name>applicant</name>
       <fieldData/>
       <isModify>false</isModify>
