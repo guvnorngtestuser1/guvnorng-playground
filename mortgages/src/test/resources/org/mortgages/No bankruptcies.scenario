@@ -3,13 +3,13 @@
   <globals/>
   <fixtures>
     <fact-data>
-      <type>org.mortgages.LoanApplication</type>
+      <type>LoanApplication</type>
       <name>application</name>
       <fieldData/>
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>org.mortgages.Bankruptcy</type>
+      <type>Bankruptcy</type>
       <name>bankruptcy</name>
       <fieldData>
         <field-data>
@@ -26,7 +26,7 @@
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>org.mortgages.Bankruptcy</type>
+      <type>Bankruptcy</type>
       <name>moreBankruptcy</name>
       <fieldData>
         <field-data>
@@ -65,7 +65,7 @@
       <name>moreBankruptcy</name>
     </retract-fact>
     <fact-data>
-      <type>org.mortgages.Bankruptcy</type>
+      <type>Bankruptcy</type>
       <name>bankruptcy</name>
       <fieldData>
         <field-data>
@@ -82,7 +82,7 @@
       <isModify>true</isModify>
     </fact-data>
     <fact-data>
-      <type>org.mortgages.LoanApplication</type>
+      <type>LoanApplication</type>
       <name>application2</name>
       <fieldData/>
       <isModify>false</isModify>
@@ -109,4 +109,8 @@
   <lastRunResult>2008-10-01 18:18:15.949 EEST</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
+  <packageName>org.mortgages</packageName>
+  <imports>
+    <imports/>
+  </imports>
 </scenario>

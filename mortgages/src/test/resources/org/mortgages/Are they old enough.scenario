@@ -55,4 +55,8 @@
   <lastRunResult>2010-05-26 22:27:39.958 EEST</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
+  <packageName>org.mortgages</packageName>
+  <imports>
+    <imports/>
+  </imports>
 </scenario>

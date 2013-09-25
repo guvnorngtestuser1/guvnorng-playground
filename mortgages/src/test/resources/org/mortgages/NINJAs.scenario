@@ -3,13 +3,13 @@
   <globals/>
   <fixtures>
     <fact-data>
-      <type>org.mortgages.LoanApplication</type>
+      <type>LoanApplication</type>
       <name>app</name>
       <fieldData/>
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>org.mortgages.Applicant</type>
+      <type>Applicant</type>
       <name>applicant</name>
       <fieldData/>
       <isModify>false</isModify>
@@ -36,4 +36,8 @@
   <lastRunResult>2008-10-01 20:47:29.730 EEST</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
+  <packageName>org.mortgages</packageName>
+  <imports>
+    <imports/>
+  </imports>
 </scenario>
