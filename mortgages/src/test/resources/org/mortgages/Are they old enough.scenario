@@ -3,7 +3,7 @@
   <globals/>
   <fixtures>
     <fact-data>
-      <type>org.mortgages.Applicant</type>
+      <type>Applicant</type>
       <name>a</name>
       <fieldData>
         <field-data>
@@ -15,7 +15,7 @@
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>org.mortgages.LoanApplication</type>
+      <type>LoanApplication</type>
       <name>application</name>
       <fieldData>
         <field-data>
@@ -27,7 +27,7 @@
       <isModify>false</isModify>
     </fact-data>
     <fact-data>
-      <type>org.mortgages.IncomeSource</type>
+      <type>IncomeSource</type>
       <name>incomeSource</name>
       <fieldData/>
       <isModify>false</isModify>
