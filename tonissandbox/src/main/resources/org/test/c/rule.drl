@@ -1,6 +1,0 @@
-rule C
-  when
-    #conditions
-  then
-    #actions
-end
