@@ -1,0 +1,43 @@
+<group>
+  <name>test</name>
+  <description></description>
+  <type>REPOSITORY</type>
+  <enabled>true</enabled>
+  <items>
+    <entry>
+      <string>password</string>
+      <secureitem>
+        <name>password</name>
+        <value class="string">mC++8i1tTz6bO8owCSJRrXgd29l7GN/J</value>
+      </secureitem>
+    </entry>
+    <entry>
+      <string>scheme</string>
+      <item>
+        <name>scheme</name>
+        <value class="string">git</value>
+      </item>
+    </entry>
+    <entry>
+      <string>origin</string>
+      <item>
+        <name>origin</name>
+        <value class="string">.</value>
+      </item>
+    </entry>
+    <entry>
+      <string>security:roles</string>
+      <item>
+        <name>security:roles</name>
+        <value class="list"/>
+      </item>
+    </entry>
+    <entry>
+      <string>username</string>
+      <item>
+        <name>username</name>
+        <value class="string">guvnorngtestuser1</value>
+      </item>
+    </entry>
+  </items>
+</group>
